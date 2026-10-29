@@ -1,0 +1,5 @@
+phone/local.properties
+phone/.gradle/
+phone/build/
+phone/app/build/
+__pycache__/
